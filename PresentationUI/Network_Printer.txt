@@ -1,0 +1,11 @@
+Employee information: 
+Social Security= 
+First Name= 
+Last Name= 
+Date Of Birth= 
+Age= 0
+Address= 
+Phone= 
+Email= 
+
+
